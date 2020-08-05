@@ -4,7 +4,7 @@ Proffy is an online study platform built with TypeScript and ReactJs.
 
 The project was developed during the second edition of NLW (Next Level Week).
 
-<img src=".web/src/assets/images/screen.png" />
+<img src="web/src/assets/images/screen.png" />
 
 
 ## Tech
